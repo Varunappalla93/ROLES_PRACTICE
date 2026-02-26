@@ -3,3 +3,6 @@
   connection: local
   roles:
     - demo
+
+
+# ansible-playbook main.yaml
